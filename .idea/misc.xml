@@ -12,6 +12,16 @@
         <entry key="..\:/Users/xXMONSTERXx/AndroidStudioProjects/ValetParking/app/src/main/res/layout/app_bar_main.xml" value="0.12708333333333333" />
         <entry key="..\:/Users/xXMONSTERXx/AndroidStudioProjects/ValetParking/app/src/main/res/menu/menu.xml" value="0.4" />
         <entry key="..\:/Users/xXMONSTERXx/AndroidStudioProjects/ValetParking/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_drawer.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/layout/content_drawer.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout/nav_header_drawer.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/menu/drawer.xml" value="0.20364583333333333" />
       </map>
     </option>
   </component>
